@@ -1,0 +1,7 @@
+customhost = "employee.cpmzf7mmngpa.ap-south-1.rds.amazonaws.com"
+customuser = "akash"
+custompass = "akash66sheoran"
+customdb = "employee"
+custombucket = "my-aws-project-bucket"
+customregion = "ap-south-1"
+customtable = "employee_image_table"
