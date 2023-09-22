@@ -1,6 +1,6 @@
-customhost = "employee.cpmzf7mmngpa.ap-south-1.rds.amazonaws.com"
+customhost = ""
 customuser = "akash"
-custompass = "akash66sheoran"
+custompass = ""
 customdb = "employee"
 custombucket = "my-aws-project-bucket"
 customregion = "ap-south-1"
